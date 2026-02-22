@@ -1,6 +1,8 @@
 # LightHouse-OS
 
-LightHouse OS-灯塔系统
+灯塔系统-暂定的非商用名称，永久免费
+
+LightHouse OS-Provisional non-commercial name, permanently free.
 
 © 2026 本仓库所有人 保留所有权利。
 
