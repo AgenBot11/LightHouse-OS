@@ -1,12 +1,9 @@
 # LightHouse-OS
 LightHouse OS-灯塔系统
-# LightHouse OS MemoryAgent
-
-## Copyright & License
-### 中文
 © 2026 本仓库所有人 保留所有权利。
-未经书面授权，禁止商用本仓库内容。
-
-### English
 © 2026 All owners of this repository All Rights Reserved.
+未经书面授权，禁止商用本仓库内容。
 Commercial use of the contents of this repository is prohibited without written authorization.
+
+
+
