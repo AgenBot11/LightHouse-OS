@@ -4,9 +4,9 @@
 
 LightHouse OS-Provisional non-commercial name, permanently free.
 
-© 2026 本仓库所有人 保留所有权利。
+© 2026 本仓库所有者保留所有权利。
 
-© 2026 All owners of this repository All Rights Reserved.
+© 2026 The warehouse owner  All Rights Reserved.
 
 未经书面授权，禁止商用本仓库内容。
 
